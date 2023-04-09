@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shi Jiale&#39;s Portfolio</title>
+  
+  <subtitle>Portfolio Show</subtitle>
+  <link href="http://le53.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://le53.github.io/"/>
+  <updated>2023-04-09T14:17:46.789Z</updated>
+  <id>http://le53.github.io/</id>
+  
+  <author>
+    <name>Shi Jiale</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>标题</title>
+    <link href="http://le53.github.io/2023/04/09/%E5%AE%9E%E4%BE%8B/"/>
+    <id>http://le53.github.io/2023/04/09/%E5%AE%9E%E4%BE%8B/</id>
+    <published>2023-04-09T14:10:10.104Z</published>
+    <updated>2023-04-09T14:17:46.789Z</updated>
+    
+    <content type="html"><![CDATA[<p>说明文字</p><span id="more"></span><h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;说明文字&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://le53.github.io/2023/04/07/hello-world/"/>
+    <id>http://le53.github.io/2023/04/07/hello-world/</id>
+    <published>2023-04-06T16:27:40.637Z</published>
+    <updated>2023-04-09T13:57:43.833Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/../images/hello-world/tree.png" alt="img"></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/hello-world/tree.png&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Sta</summary>
+      
+    
+    
+    
+    <category term="项目" scheme="http://le53.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="工业设计" scheme="http://le53.github.io/tags/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="UI" scheme="http://le53.github.io/tags/UI/"/>
+    
+  </entry>
+  
+</feed>

@@ -6,7 +6,7 @@
   <link href="http://le53.github.io/atom.xml" rel="self"/>
   
   <link href="http://le53.github.io/"/>
-  <updated>2023-04-26T03:57:20.137Z</updated>
+  <updated>2023-05-06T12:04:18.965Z</updated>
   <id>http://le53.github.io/</id>
   
   <author>
@@ -17,11 +17,95 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>斑鸠智行——未来适老化智慧场景下的服务设计优化探索</title>
-    <link href="http://le53.github.io/2023/04/09/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/"/>
-    <id>http://le53.github.io/2023/04/09/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/</id>
+    <title>营探-审核端&amp;管理员端B端设计</title>
+    <link href="http://le53.github.io/2023/04/09/%E8%90%A5%E6%8E%A2/"/>
+    <id>http://le53.github.io/2023/04/09/%E8%90%A5%E6%8E%A2/</id>
     <published>2023-04-08T16:00:00.000Z</published>
-    <updated>2023-04-26T03:57:20.137Z</updated>
+    <updated>2023-05-06T12:04:18.965Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/../images/%E8%90%A5%E6%8E%A2/1.jpg" alt="1"></p><p><em>【软件：figma】</em></p><blockquote><p>公司基于BNC模式经营互联网泛营地活动业务，依托自有品牌营探，研发了一款帮助青少年、大学生及职场新人轻松找到国内外冬夏令营、游学、研学及各类主题活动的软件产品。此次实习我负责营探审核端及管理员端基本页面搭建，并及时与开发人员法务人员沟通，维护需求池更新，通过多次方案评审会不断迭代，最终完成审核端及管理员端一级页面搭建。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>整理收集需求，维护<strong>需求池</strong>更新</li><li>负责B端<strong>审核端、管理员端信息架构</strong>搭建及<strong>页面设计</strong></li><li>根据视觉规范设计页面并维护更新<strong>组件库</strong></li><li>与开发人员沟通，优化工作流程，提高工作效率</li><li>实习结束后自己搭建<strong>设计原型</strong></li></ul><h3 id="设计报告书"><a href="#设计报告书" class="headerlink" title="设计报告书"></a>设计报告书</h3><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3><p><a href="https://www.figma.com/proto/ZocWNnSSDdmGEiWqFAtIJD/%E3%80%90%E8%90%A5%E6%8E%A2%E3%80%91?page-id=19:5000&type=design&node-id=28-17123&viewport=-3114,1952,0.32&scaling=min-zoom&starting-point-node-id=28:16762&show-proto-sidebar=1">figma设计原型</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/%E8%90%A5%E6%8E%A2/1.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;【软件：figma】&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;公司基于BNC模式经营互联网泛营地活动业务，依托自有品牌营探，研发了一款帮助青少年、大学生及职场新人轻松找到国内外冬夏令营、游学、研学及各类主题活动的软件产品。此次实习我负责营探审核端及管理员端基本页面搭建，并及时与开发人员法务人员沟通，维护需求池更新，通过多次方案评审会不断迭代，最终完成审核端及管理员端一级页面搭建。</summary>
+    
+    
+    
+    <category term="实习" scheme="http://le53.github.io/categories/%E5%AE%9E%E4%B9%A0/"/>
+    
+    
+    <category term="UI" scheme="http://le53.github.io/tags/UI/"/>
+    
+    <category term="交互设计" scheme="http://le53.github.io/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="B端" scheme="http://le53.github.io/tags/B%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>字友-全流程书写服务及分享交友社区</title>
+    <link href="http://le53.github.io/2023/02/09/%E5%AD%97%E5%8F%8B/"/>
+    <id>http://le53.github.io/2023/02/09/%E5%AD%97%E5%8F%8B/</id>
+    <published>2023-02-08T16:00:00.000Z</published>
+    <updated>2023-05-06T11:50:14.553Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/../images/%E5%AD%97%E5%8F%8B/%E5%B0%81%E9%9D%A21.jpg" alt="封面1"></p><p><em>【软件：spss、figma】</em></p><blockquote><p>该项目通过量化研究的方法及科学的问卷设计，探究出移动智能终端对大学生汉字书写质量影响的最显著因素——书写频次，并尝试通过设计的手段解决这一痛点。字友是一个以情感驱动为核心的提供全流程书写服务及分享交友社区，通过手写成书、素材推荐、成长激励、以字会友等特色功能，重塑汉字书写形象，还汉字书写以美的灵魂。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研，<strong>量化设计问卷</strong>并通过数据分析软件对问卷进行信效度测试</li><li>收集问卷对问卷结果进行<strong>描述性统计分析</strong>及<strong>多元回归分析</strong>，探究移动智能终端对大学生提笔忘字现象的影响</li><li>综合问卷结果，通过竞品分析和设计定位，进行<strong>高保真</strong>页面设计及报告书排版</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWGdGUkV4YXZVUXho">【腾讯文档】项目报告书-字友-全流程书写服务及分享交友社区</a></p><h3 id="问卷设计"><a href="#问卷设计" class="headerlink" title="问卷设计"></a>问卷设计</h3><p><a href="https://docs.qq.com/pdf/DWEh6TlZrU3V4amJY">【腾讯文档】问卷设计-移动智能终端的使用对大学生汉字书写质量的影响</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/%E5%AD%97%E5%8F%8B/%E5%B0%81%E9%9D%A21.jpg&quot; alt=&quot;封面1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;【软件：spss、figma】&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;该项目通过量化研究的方法及科学的问卷设计，探究出移动智能终端对大学生汉字书写质量影响的最显著因素——书写频次，并尝试通过设计的手段解决这一痛点。字友是一个以情感驱动为核心的提供全流程书写服务及分享交友社区，通过手写成书、素材推荐、成长激励、以字会友等特色功能，重塑汉字书写形象，还汉字书写以美的灵魂。</summary>
+    
+    
+    
+    <category term="项目" scheme="http://le53.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="UI" scheme="http://le53.github.io/tags/UI/"/>
+    
+    <category term="C端" scheme="http://le53.github.io/tags/C%E7%AB%AF/"/>
+    
+    <category term="数据分析" scheme="http://le53.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生态地全球大冒险×百度MEUX激励性产品设计</title>
+    <link href="http://le53.github.io/2022/11/30/%E7%99%BE%E5%BA%A6MEUX/"/>
+    <id>http://le53.github.io/2022/11/30/%E7%99%BE%E5%BA%A6MEUX/</id>
+    <published>2022-11-29T16:00:00.000Z</published>
+    <updated>2023-05-06T11:56:55.296Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/../images/%E7%99%BE%E5%BA%A6MEUX/%E5%B0%81%E9%9D%A20.jpg" alt="封面0"></p><p><em>【软件：figma】</em></p><blockquote><p>该项目以大富翁玩法解锁生态地保护、收集动物为主线，与收集动物进行互动，完成任务获得大冒险道具等为支线，以达到品牌塑造、裂变拉新、矩阵引流、定时召回、留存时长等业务目标，设计了一款以百度百科珍稀物种保护为主题的用户激励公益产品。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><p>- </p><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/%E7%99%BE%E5%BA%A6MEUX/%E5%B0%81%E9%9D%A20.jpg&quot; alt=&quot;封面0&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;【软件：figma】&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;该项目以大富翁玩法解锁生态地保护、收集动物为主线，与收集动物进行互动，完成任务获得大冒险道具等为支线，以达到品牌塑造、裂变拉新、矩阵引流、定时召回、留存时长等业务目标，设计了一款以百度百科珍稀物种保护为主题的用户激励公益产品。</summary>
+    
+    
+    
+    <category term="项目" scheme="http://le53.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="UI" scheme="http://le53.github.io/tags/UI/"/>
+    
+    <category term="C端" scheme="http://le53.github.io/tags/C%E7%AB%AF/"/>
+    
+    <category term="运营" scheme="http://le53.github.io/tags/%E8%BF%90%E8%90%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>斑鸠智行——未来适老化智慧场景下的服务设计优化探索</title>
+    <link href="http://le53.github.io/2022/06/09/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/"/>
+    <id>http://le53.github.io/2022/06/09/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/</id>
+    <published>2022-06-08T16:00:00.000Z</published>
+    <updated>2023-05-06T10:30:39.615Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/../images/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/%E5%B0%81%E9%9D%A2.jpg" alt="封面"></p><p><em>【软件：figma ps】</em></p><blockquote><p>斑鸠智行旨在解决老年人在驾驶智能汽车时遇到的“上路难”与“开车难”两类问题。通过提供符合老年人心智模型的问路功能进行行程规划，再结合NFC技术，为老年人提供更加便捷的“碰一碰”车机互联等车机功能服务模式，降低老年人使用智能汽车的难度。从而让更多老年人能够在新时代使用信息技术，享受数字红利带来的便利出行。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研、竞品分析、用户研究等，<strong>挖掘用户痛点</strong>并进行<strong>需求转化</strong></li><li>APP端<strong>低保真</strong>原型设计，部分<strong>高保真</strong>页面设计</li><li>报告书排版及<strong>可交互原型制作</strong></li></ul><h3 id="设计报告书"><a href="#设计报告书" class="headerlink" title="设计报告书"></a>设计报告书</h3><p><a href="https://docs.qq.com/pdf/DWEZXSWRlUk5oenVH">【腾讯文档】项目报告书-未来适老化智慧驾驶场景下的服务设计优化探索</a></p><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3><p><a href="https://www.figma.com/proto/MgsK9YgCwKvgGeexfBGs60/My-portfolio?page-id=6:1348&node-id=6-9831&viewport=-3712,43,0.29&scaling=min-zoom&starting-point-node-id=6:9831">figma设计原型</a></p>]]></content>
     
@@ -42,42 +126,16 @@
     
     <category term="C端" scheme="http://le53.github.io/tags/C%E7%AB%AF/"/>
     
-  </entry>
-  
-  <entry>
-    <title>字友-全流程书写服务及分享交友社区</title>
-    <link href="http://le53.github.io/2023/04/09/%E5%AD%97%E5%8F%8B/"/>
-    <id>http://le53.github.io/2023/04/09/%E5%AD%97%E5%8F%8B/</id>
-    <published>2023-04-08T16:00:00.000Z</published>
-    <updated>2023-04-26T03:57:11.342Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/../images/%E5%AE%9E%E4%BE%8B/11.jpg" alt="11"></p><p><em>【软件：spss、figma】</em></p><blockquote><p>该项目通过量化研究的方法及科学的问卷设计，探究出移动智能终端对大学生汉字书写质量影响的最显著因素——书写频次，并尝试通过设计的手段解决这一痛点，设计了一款以情感驱动为核心的提供全流程书写服务及分享交友的社区——字友。旨在运用科学技术的同时提高大学生汉字书写能力，还汉字书写以美的灵魂。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研，<strong>量化设计问卷</strong>并通过数据分析软件对问卷进行信效度测试</li><li>收集问卷对问卷结果进行<strong>描述性统计分析</strong>及<strong>多元回归分析</strong>，探究移动智能终端对大学生提笔忘字现象的影响</li><li>综合问卷结果，通过竞品分析和设计定位，进行<strong>高保真</strong>页面设计及报告书排版</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWGdGUkV4YXZVUXho">【腾讯文档】项目报告书-字友-全流程书写服务及分享交友社区</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/%E5%AE%9E%E4%BE%8B/11.jpg&quot; alt=&quot;11&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;【软件：spss、figma】&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;该项目通过量化研究的方法及科学的问卷设计，探究出移动智能终端对大学生汉字书写质量影响的最显著因素——书写频次，并尝试通过设计的手段解决这一痛点，设计了一款以情感驱动为核心的提供全流程书写服务及分享交友的社区——字友。旨在运用科学技术的同时提高大学生汉字书写能力，还汉字书写以美的灵魂。</summary>
-    
-    
-    
-    <category term="项目" scheme="http://le53.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
-    
-    
-    <category term="UI" scheme="http://le53.github.io/tags/UI/"/>
-    
-    <category term="C端" scheme="http://le53.github.io/tags/C%E7%AB%AF/"/>
-    
-    <category term="数据分析" scheme="http://le53.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    <category term="交互设计" scheme="http://le53.github.io/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>高铁车厢智能送餐机器人造型及服务系统设计</title>
-    <link href="http://le53.github.io/2023/04/09/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
-    <id>http://le53.github.io/2023/04/09/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/</id>
-    <published>2023-04-08T16:00:00.000Z</published>
-    <updated>2023-04-26T03:57:10.152Z</updated>
+    <link href="http://le53.github.io/2022/04/09/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    <id>http://le53.github.io/2022/04/09/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/</id>
+    <published>2022-04-08T16:00:00.000Z</published>
+    <updated>2023-05-06T10:35:02.674Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/../images/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B0%81%E9%9D%A23.jpg" alt="封面3"></p><p><em>【软件：rhino、keyshot、ps、figma】</em></p><blockquote><p>为了解决服务行业劳动力供给减少，高铁送餐效率低下，服务人员强度较高以及新冠疫情爆发带来的人工配送等问题，通过文献分析法、行业调研、竞品分析、技术结构调研、利益相关者地图、问卷调查、用户访谈，用户路程图、服务蓝图、系统图等方法，设计了一款高铁智能送餐机器人，可以满足无人配送、餐盒回收等需求，此外，还有配套售卖机可以自动补货，餐盒回收站、手机小程序等整套服务流程，提升用户高铁出行的智能化体验。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>个人独立项目，<strong>软硬件结合的服务流程设计</strong></li><li>前期背景调研、高铁场景及行业分析、技术调研，运用多种方法进行<strong>用户研究</strong>，创新性地提出高铁送餐服务流程设计</li><li>通过<strong>草图、建模渲染</strong>等进行机器人设计，并设计配套相关app端小程序</li><li>独立完成报告书排版设计且该设计获得优秀毕设及相关设计奖项</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWFFZU3hDdE9LWWpi">【腾讯文档】项目报告书-高铁车厢智能送餐机器人造型及服务系统设计</a></p>]]></content>
     
@@ -95,6 +153,32 @@
     <category term="工业设计" scheme="http://le53.github.io/tags/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="服务设计" scheme="http://le53.github.io/tags/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>半伴-亲子交流互动APP</title>
+    <link href="http://le53.github.io/2022/04/09/%E5%8D%8A%E4%BC%B4/"/>
+    <id>http://le53.github.io/2022/04/09/%E5%8D%8A%E4%BC%B4/</id>
+    <published>2022-04-08T16:00:00.000Z</published>
+    <updated>2023-05-06T10:35:36.047Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/../images/%E5%8D%8A%E4%BC%B4/11.jpg" alt="11"></p><p><em>【软件：spss、figma】</em></p><blockquote><p>为了工作繁忙与家人缺少沟通的上班族、外地读书思念父母的学生，他们需要满足父母和子女沟通,陪伴彼此的需求。半伴是一个父母和子女之间相互沟通交流的平台，它可以多种形式的亲子互动方式、科学有效的相处指南、更好的互动体验，聚焦亲子关系，充满人性关怀。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研、竞品分析、用户研究等，<strong>挖掘用户痛点</strong>并进行<strong>需求转化</strong></li><li>APP端信息架构搭建及<strong>低保真</strong>原型设计</li><li>部分<strong>高保真</strong>页面设计及报告书排版</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/%E5%8D%8A%E4%BC%B4/11.jpg&quot; alt=&quot;11&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;【软件：spss、figma】&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为了工作繁忙与家人缺少沟通的上班族、外地读书思念父母的学生，他们需要满足父母和子女沟通,陪伴彼此的需求。半伴是一个父母和子女之间相互沟通交流的平台，它可以多种形式的亲子互动方式、科学有效的相处指南、更好的互动体验，聚焦亲子关系，充满人性关怀。</summary>
+    
+    
+    
+    <category term="项目" scheme="http://le53.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="UI" scheme="http://le53.github.io/tags/UI/"/>
+    
+    <category term="C端" scheme="http://le53.github.io/tags/C%E7%AB%AF/"/>
     
   </entry>
   

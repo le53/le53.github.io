@@ -4,11 +4,67 @@
   
     
     <entry>
+      <title>自我他人决策在隐私决策意图行为不一致中的调节与中介作用研究</title>
+      <link href="/2023/07/25/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/"/>
+      <url>/2023/07/25/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/../images/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/%E9%9A%90%E7%A7%81-1690298971564-6.jpg" alt="隐私"></p><p><em>【软件：HTML、css、javascript、SPSS、JASP】</em></p><blockquote><p>本研究对个人智能设备数据分享中出现的“意图行为不一致”现象的原因进行探讨。以解释水平理论和隐私计算理论为依据，通过决策方式（意图行为）和决策对象（自我他人控制）双因素混合实验得出，决策对象调节决策方式对利益优势（列举利益与风险的数量之差）有影响：当被试为本人做决策时，实际数据共享会多于共享意图。当被试为他人做决策时，实际数据共享会少于共享意图。利益优势继而影响了隐私决策，即利益与风险的差值越大其共享的概率越高。此外，中介分析的结果表明利益优势中介了决策方式对数据共享决策的影响，且决策对象对利益优势的中介效应有调节作用。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>实验流程设计和实验网站<strong>前端代码</strong>编写及搭建</li><li>实验<strong>数据收集及分析</strong>，得出实验结论</li><li>文献综述及<strong>论文撰写</strong></li></ul><h3 id="实验网址"><a href="#实验网址" class="headerlink" title="实验网址"></a>实验网址</h3><p><a href="http://le535353.pythonanywhere.com/tmc">le535353.pythonanywhere.com</a></p><h3 id="论文"><a href="#论文" class="headerlink" title="论文"></a>论文</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 论文 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数据分析 </tag>
+            
+            <tag> 心理学 </tag>
+            
+            <tag> 前端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Crimson Tendons：鼠标使用可视化系统设计</title>
+      <link href="/2023/07/24/%E9%BC%A0%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E8%A3%85%E7%BD%AE%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2023/07/24/%E9%BC%A0%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E8%A3%85%E7%BD%AE%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/../images/%E9%BC%A0%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E8%A3%85%E7%BD%AE%E8%AE%BE%E8%AE%A1/%E9%BC%A0%E6%A0%87.jpg" alt="鼠标"></p><p><em>【软件：Arduino、processing】</em></p><blockquote><p>过度使用鼠标是引发腕管综合征(CTS)的可能行为之一。在本研究中，我们设计了一个鼠标使用行为可视化系统Crimson Tendons。该系统由物理可视化设备和记录鼠标使用数据的数据画布组成。物理设备使用流动的红色液体来映射鼠标的使用状态。我们提出了一个初步的用户测试，并进行了定性和定量分析。实验结果表明，该装置对用户具有一定的吸引力。他们会选择主动休息来观察流动的效果<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>前期设计<strong>方案构思及生成</strong>，模型制作及电路连接</li><li>编写Arduino与process可视化界面<strong>代码</strong>，搭建实验原型</li><li><strong>数据分析及用户访谈</strong>，部分论文撰写</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWE5nbWVjZUpHd211">【腾讯文档】Crimson Tendons：鼠标使用可视化系统设计</a></p><h3 id="论文"><a href="#论文" class="headerlink" title="论文"></a>论文</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 论文 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 智能硬件 </tag>
+            
+            <tag> 质性分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>营探-审核端&amp;管理员端B端设计</title>
       <link href="/2023/04/09/%E8%90%A5%E6%8E%A2/"/>
       <url>/2023/04/09/%E8%90%A5%E6%8E%A2/</url>
       
-        <content type="html"><![CDATA[<p><img src="/../images/%E8%90%A5%E6%8E%A2/1.jpg" alt="1"></p><p><em>【软件：figma】</em></p><blockquote><p>公司基于BNC模式经营互联网泛营地活动业务，依托自有品牌营探，研发了一款帮助青少年、大学生及职场新人轻松找到国内外冬夏令营、游学、研学及各类主题活动的软件产品。此次实习我负责营探审核端及管理员端基本页面搭建，并及时与开发人员法务人员沟通，维护需求池更新，通过多次方案评审会不断迭代，最终完成审核端及管理员端一级页面搭建。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>整理收集需求，维护<strong>需求池</strong>更新</li><li>负责B端<strong>审核端、管理员端信息架构</strong>搭建及<strong>页面设计</strong></li><li>根据视觉规范设计页面并维护更新<strong>组件库</strong></li><li>与开发人员沟通，优化工作流程，提高工作效率</li><li>实习结束后自己搭建<strong>设计原型</strong></li></ul><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3><p><a href="https://www.figma.com/proto/ZocWNnSSDdmGEiWqFAtIJD/%E3%80%90%E8%90%A5%E6%8E%A2%E3%80%91?page-id=19:5000&type=design&node-id=28-17123&viewport=-3114,1952,0.32&scaling=min-zoom&starting-point-node-id=28:16762&show-proto-sidebar=1">figma设计原型</a></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/../images/%E8%90%A5%E6%8E%A2/1.jpg" alt="1"></p><p><em>【软件：Figma】</em></p><blockquote><p>公司基于BNC模式经营互联网泛营地活动业务，依托自有品牌营探，研发了一款帮助青少年、大学生及职场新人轻松找到国内外冬夏令营、游学、研学及各类主题活动的软件产品。此次实习我负责营探审核端及管理员端基本页面搭建，并及时与开发人员法务人员沟通，维护需求池更新，通过多次方案评审会不断迭代，最终完成审核端及管理员端一级页面搭建。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>整理收集需求，维护<strong>需求池</strong>更新</li><li>负责B端<strong>审核端、管理员端信息架构</strong>搭建及<strong>页面设计</strong></li><li>根据视觉规范设计页面并维护更新<strong>组件库</strong></li><li>与开发人员沟通，优化工作流程，提高工作效率</li><li>实习结束后自己搭建<strong>设计原型</strong></li></ul><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3><p><a href="https://www.figma.com/proto/ZocWNnSSDdmGEiWqFAtIJD/%E3%80%90%E8%90%A5%E6%8E%A2%E3%80%91?page-id=19:5000&type=design&node-id=28-17123&viewport=-3114,1952,0.32&scaling=min-zoom&starting-point-node-id=28:16762&show-proto-sidebar=1">figma设计原型</a></p>]]></content>
       
       
       <categories>
@@ -37,7 +93,7 @@
       <link href="/2023/02/09/%E5%AD%97%E5%8F%8B/"/>
       <url>/2023/02/09/%E5%AD%97%E5%8F%8B/</url>
       
-        <content type="html"><![CDATA[<p><img src="/../images/%E5%AD%97%E5%8F%8B/%E5%B0%81%E9%9D%A21.jpg" alt="封面1"></p><p><em>【软件：spss、figma】</em></p><blockquote><p>该项目通过量化研究的方法及科学的问卷设计，探究出移动智能终端对大学生汉字书写质量影响的最显著因素——书写频次，并尝试通过设计的手段解决这一痛点。字友是一个以情感驱动为核心的提供全流程书写服务及分享交友社区，通过手写成书、素材推荐、成长激励、以字会友等特色功能，重塑汉字书写形象，还汉字书写以美的灵魂。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研，<strong>量化设计问卷</strong>并通过数据分析软件对问卷进行信效度测试</li><li>收集问卷对问卷结果进行<strong>描述性统计分析</strong>及<strong>多元回归分析</strong>，探究移动智能终端对大学生提笔忘字现象的影响</li><li>综合问卷结果，通过竞品分析和设计定位，进行<strong>高保真</strong>页面设计及报告书排版</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWGdGUkV4YXZVUXho">【腾讯文档】项目报告书-字友-全流程书写服务及分享交友社区</a></p><h3 id="问卷设计"><a href="#问卷设计" class="headerlink" title="问卷设计"></a>问卷设计</h3><p><a href="https://docs.qq.com/pdf/DWEh6TlZrU3V4amJY">【腾讯文档】问卷设计-移动智能终端的使用对大学生汉字书写质量的影响</a></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/../images/%E5%AD%97%E5%8F%8B/%E5%B0%81%E9%9D%A21.jpg" alt="封面1"></p><p><em>【软件：SPSS、Figma】</em></p><blockquote><p>该项目通过量化研究的方法及科学的问卷设计，探究出移动智能终端对大学生汉字书写质量影响的最显著因素——书写频次，并尝试通过设计的手段解决这一痛点。字友是一个以情感驱动为核心的提供全流程书写服务及分享交友社区，通过手写成书、素材推荐、成长激励、以字会友等特色功能，重塑汉字书写形象，还汉字书写以美的灵魂。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研，<strong>量化设计问卷</strong>并通过数据分析软件对问卷进行信效度测试</li><li>收集问卷对问卷结果进行<strong>描述性统计分析</strong>及<strong>多元回归分析</strong>，探究移动智能终端对大学生提笔忘字现象的影响</li><li>综合问卷结果，通过竞品分析和设计定位，进行<strong>高保真</strong>页面设计及报告书排版</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWGdGUkV4YXZVUXho">【腾讯文档】项目报告书-字友-全流程书写服务及分享交友社区</a></p><h3 id="问卷设计"><a href="#问卷设计" class="headerlink" title="问卷设计"></a>问卷设计</h3><p><a href="https://docs.qq.com/pdf/DWEh6TlZrU3V4amJY">【腾讯文档】问卷设计-移动智能终端的使用对大学生汉字书写质量的影响</a></p>]]></content>
       
       
       <categories>
@@ -62,65 +118,11 @@
     
     
     <entry>
-      <title>自我他人决策在隐私决策意图行为不一致中的调节与中介作用研究</title>
-      <link href="/2023/02/09/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/"/>
-      <url>/2023/02/09/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/../images/%E5%AD%97%E5%8F%8B/%E5%B0%81%E9%9D%A21.jpg" alt="封面1"></p><p><em>【语言&#x2F;软件：html、css、javascript、SPSS、JASP】</em></p><blockquote><p>本研究对个人智能设备数据分享中出现的“意图行为不一致”现象的原因进行探讨。以解释水平理论和隐私计算理论为依据，通过决策方式（意图行为）和决策对象（自我他人控制）双因素混合实验得出，决策对象调节决策方式对利益优势（列举利益与风险的数量之差）有影响：当被试为本人做决策时，实际数据共享会多于共享意图。当被试为他人做决策时，实际数据共享会少于共享意图。利益优势继而影响了隐私决策，即利益与风险的差值越大其共享的概率越高。此外，中介分析的结果表明利益优势中介了决策方式对数据共享决策的影响，且决策对象对利益优势的中介效应有调节作用。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>实验流程设计和实验网站<strong>前端代码</strong>编写及搭建</li><li>实验<strong>数据收集及分析</strong>，得出实验结论</li><li>文献综述及<strong>论文撰写</strong></li></ul><h3 id="实验网站"><a href="#实验网站" class="headerlink" title="实验网站"></a>实验网站</h3><p><a href="http://le535353.pythonanywhere.com/tmc"> (le535353.pythonanywhere.com)</a></p><h3 id="论文"><a href="#论文" class="headerlink" title="论文"></a>论文</h3>]]></content>
-      
-      
-      <categories>
-          
-          <category> 论文 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 数据分析 </tag>
-            
-            <tag> 心理学 </tag>
-            
-            <tag> 前端 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Crimson Tendons：鼠标使用可视化系统设计</title>
-      <link href="/2023/02/09/%E9%BC%A0%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E8%A3%85%E7%BD%AE%E8%AE%BE%E8%AE%A1/"/>
-      <url>/2023/02/09/%E9%BC%A0%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E8%A3%85%E7%BD%AE%E8%AE%BE%E8%AE%A1/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/../images/%E5%AD%97%E5%8F%8B/%E5%B0%81%E9%9D%A21.jpg" alt="封面1"></p><p><em>【软件：Arduino、processing】</em></p><blockquote><p>过度使用鼠标是引发腕管综合征(CTS)的可能行为之一。在本研究中，我们设计了一个鼠标使用行为可视化系统Crimson Tendons。该系统由物理可视化设备和记录鼠标使用数据的数据画布组成。物理设备使用流动的红色液体来映射鼠标的使用状态。我们提出了一个初步的用户测试，并进行了定性和定量分析。实验结果表明，该装置对用户具有一定的吸引力。他们会选择主动休息来观察流动的效果<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>前期设计<strong>方案构思及生成</strong>，模型制作及电路连接</li><li>编写Arduino与process可视化界面<strong>代码</strong>，搭建实验原型</li><li><strong>数据分析及用户访谈</strong>，部分论文撰写</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWE5nbWVjZUpHd211">【腾讯文档】Crimson Tendons：鼠标使用可视化系统设计</a></p><h3 id="论文"><a href="#论文" class="headerlink" title="论文"></a>论文</h3>]]></content>
-      
-      
-      <categories>
-          
-          <category> 论文 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 智能硬件 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>生态地全球大冒险×百度MEUX激励性产品设计</title>
       <link href="/2022/11/30/%E7%99%BE%E5%BA%A6MEUX/"/>
       <url>/2022/11/30/%E7%99%BE%E5%BA%A6MEUX/</url>
       
-        <content type="html"><![CDATA[<p><img src="/../images/%E7%99%BE%E5%BA%A6MEUX/%E5%B0%81%E9%9D%A20.jpg" alt="封面0"></p><p><em>【软件：figma】</em></p><blockquote><p>该项目以大富翁玩法解锁生态地保护、收集动物为主线，与收集动物进行互动，完成任务获得大冒险道具等为支线，以达到品牌塑造、裂变拉新、矩阵引流、定时召回、留存时长等业务目标，设计了一款以百度百科珍稀物种保护为主题的用户激励公益产品。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><p>- </p><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3>]]></content>
+        <content type="html"><![CDATA[<p><img src="/../images/%E7%99%BE%E5%BA%A6MEUX/%E5%B0%81%E9%9D%A20.jpg" alt="封面0"></p><p><em>【软件：Figma】</em></p><blockquote><p>该项目以大富翁玩法解锁生态地保护、收集动物为主线，与收集动物进行互动，完成任务获得大冒险道具等为支线，以达到品牌塑造、裂变拉新、矩阵引流、定时召回、留存时长等业务目标，设计了一款以百度百科珍稀物种保护为主题的用户激励公益产品。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><p>- </p><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3>]]></content>
       
       
       <categories>
@@ -149,7 +151,7 @@
       <link href="/2022/06/09/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/"/>
       <url>/2022/06/09/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/</url>
       
-        <content type="html"><![CDATA[<p><img src="/../images/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/%E5%B0%81%E9%9D%A2.jpg" alt="封面"></p><p><em>【软件：figma、ps】</em></p><blockquote><p>斑鸠智行旨在解决老年人在驾驶智能汽车时遇到的“上路难”与“开车难”两类问题。通过提供符合老年人心智模型的问路功能进行行程规划，再结合NFC技术，为老年人提供更加便捷的“碰一碰”车机互联等车机功能服务模式，降低老年人使用智能汽车的难度。从而让更多老年人能够在新时代使用信息技术，享受数字红利带来的便利出行。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研、竞品分析、用户研究等，<strong>挖掘用户痛点</strong>并进行<strong>需求转化</strong></li><li>APP端<strong>低保真</strong>原型设计，部分<strong>高保真</strong>页面设计</li><li>报告书排版及<strong>可交互原型制作</strong></li></ul><h3 id="设计报告书"><a href="#设计报告书" class="headerlink" title="设计报告书"></a>设计报告书</h3><p><a href="https://docs.qq.com/pdf/DWEZXSWRlUk5oenVH">【腾讯文档】项目报告书-未来适老化智慧驾驶场景下的服务设计优化探索</a></p><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3><p><a href="https://www.figma.com/proto/MgsK9YgCwKvgGeexfBGs60/My-portfolio?page-id=6:1348&node-id=6-9831&viewport=-3712,43,0.29&scaling=min-zoom&starting-point-node-id=6:9831">figma设计原型</a></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/../images/%E6%96%91%E9%B8%A0%E6%99%BA%E8%A1%8C/%E5%B0%81%E9%9D%A2.jpg" alt="封面"></p><p><em>【软件：Figma、PS】</em></p><blockquote><p>斑鸠智行旨在解决老年人在驾驶智能汽车时遇到的“上路难”与“开车难”两类问题。通过提供符合老年人心智模型的问路功能进行行程规划，再结合NFC技术，为老年人提供更加便捷的“碰一碰”车机互联等车机功能服务模式，降低老年人使用智能汽车的难度。从而让更多老年人能够在新时代使用信息技术，享受数字红利带来的便利出行。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研、竞品分析、用户研究等，<strong>挖掘用户痛点</strong>并进行<strong>需求转化</strong></li><li>APP端<strong>低保真</strong>原型设计，部分<strong>高保真</strong>页面设计</li><li>报告书排版及<strong>可交互原型制作</strong></li></ul><h3 id="设计报告书"><a href="#设计报告书" class="headerlink" title="设计报告书"></a>设计报告书</h3><p><a href="https://docs.qq.com/pdf/DWEZXSWRlUk5oenVH">【腾讯文档】项目报告书-未来适老化智慧驾驶场景下的服务设计优化探索</a></p><h3 id="设计原型"><a href="#设计原型" class="headerlink" title="设计原型"></a>设计原型</h3><p><a href="https://www.figma.com/proto/MgsK9YgCwKvgGeexfBGs60/My-portfolio?page-id=6:1348&node-id=6-9831&viewport=-3712,43,0.29&scaling=min-zoom&starting-point-node-id=6:9831">figma设计原型</a></p>]]></content>
       
       
       <categories>
@@ -180,7 +182,7 @@
       <link href="/2022/04/09/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
       <url>/2022/04/09/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/</url>
       
-        <content type="html"><![CDATA[<p><img src="/../images/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B0%81%E9%9D%A23.jpg" alt="封面3"></p><p><em>【软件：rhino、keyshot、ps、figma】</em></p><blockquote><p>为了解决服务行业劳动力供给减少，高铁送餐效率低下，服务人员强度较高以及新冠疫情爆发带来的人工配送等问题，通过文献分析法、行业调研、竞品分析、技术结构调研、利益相关者地图、问卷调查、用户访谈，用户路程图、服务蓝图、系统图等方法，设计了一款高铁智能送餐机器人，可以满足无人配送、餐盒回收等需求，此外，还有配套售卖机可以自动补货，餐盒回收站、手机小程序等整套服务流程，提升用户高铁出行的智能化体验。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>个人独立项目，<strong>软硬件结合的服务流程设计</strong></li><li>前期背景调研、高铁场景及行业分析、技术调研，运用多种方法进行<strong>用户研究</strong>，创新性地提出高铁送餐服务流程设计</li><li>通过<strong>草图、建模渲染</strong>等进行机器人设计，并设计配套相关app端小程序</li><li>独立完成报告书排版设计且该设计获得优秀毕设及相关设计奖项</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWFFZU3hDdE9LWWpi">【腾讯文档】项目报告书-高铁车厢智能送餐机器人造型及服务系统设计</a></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/../images/%E9%AB%98%E9%93%81%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B0%81%E9%9D%A23.jpg" alt="封面3"></p><p><em>【软件：Rhino、Keyshot、PS、Figma】</em></p><blockquote><p>为了解决服务行业劳动力供给减少，高铁送餐效率低下，服务人员强度较高以及新冠疫情爆发带来的人工配送等问题，通过文献分析法、行业调研、竞品分析、技术结构调研、利益相关者地图、问卷调查、用户访谈，用户路程图、服务蓝图、系统图等方法，设计了一款高铁智能送餐机器人，可以满足无人配送、餐盒回收等需求，此外，还有配套售卖机可以自动补货，餐盒回收站、手机小程序等整套服务流程，提升用户高铁出行的智能化体验。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>个人独立项目，<strong>软硬件结合的服务流程设计</strong></li><li>前期背景调研、高铁场景及行业分析、技术调研，运用多种方法进行<strong>用户研究</strong>，创新性地提出高铁送餐服务流程设计</li><li>通过<strong>草图、建模渲染</strong>等进行机器人设计，并设计配套相关app端小程序</li><li>独立完成报告书排版设计且该设计获得优秀毕设及相关设计奖项</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3><p><a href="https://docs.qq.com/pdf/DWFFZU3hDdE9LWWpi">【腾讯文档】项目报告书-高铁车厢智能送餐机器人造型及服务系统设计</a></p>]]></content>
       
       
       <categories>
@@ -207,7 +209,7 @@
       <link href="/2022/04/09/%E5%8D%8A%E4%BC%B4/"/>
       <url>/2022/04/09/%E5%8D%8A%E4%BC%B4/</url>
       
-        <content type="html"><![CDATA[<p><img src="/../images/%E5%8D%8A%E4%BC%B4/11.jpg" alt="11"></p><p><em>【软件：figma、ps】</em></p><blockquote><p>为了工作繁忙与家人缺少沟通的上班族、外地读书思念父母的学生，他们需要满足父母和子女沟通,陪伴彼此的需求。半伴是一个父母和子女之间相互沟通交流的平台，它可以多种形式的亲子互动方式、科学有效的相处指南、更好的互动体验，聚焦亲子关系，充满人性关怀。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研、竞品分析、用户研究等，<strong>挖掘用户痛点</strong>并进行<strong>需求转化</strong></li><li>APP端信息架构搭建及<strong>低保真</strong>原型设计</li><li>部分<strong>高保真</strong>页面设计及报告书排版</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3>]]></content>
+        <content type="html"><![CDATA[<p><img src="/../images/%E5%8D%8A%E4%BC%B4/11.jpg" alt="11"></p><p><em>【软件：Figma、PS】</em></p><blockquote><p>为了工作繁忙与家人缺少沟通的上班族、外地读书思念父母的学生，他们需要满足父母和子女沟通,陪伴彼此的需求。半伴是一个父母和子女之间相互沟通交流的平台，它可以多种形式的亲子互动方式、科学有效的相处指南、更好的互动体验，聚焦亲子关系，充满人性关怀。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>深度参与前期背景调研、竞品分析、用户研究等，<strong>挖掘用户痛点</strong>并进行<strong>需求转化</strong></li><li>APP端信息架构搭建及<strong>低保真</strong>原型设计</li><li>部分<strong>高保真</strong>页面设计及报告书排版</li></ul><h3 id="项目报告书"><a href="#项目报告书" class="headerlink" title="项目报告书"></a>项目报告书</h3>]]></content>
       
       
       <categories>

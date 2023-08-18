@@ -6,7 +6,7 @@
   <link href="http://le53.github.io/atom.xml" rel="self"/>
   
   <link href="http://le53.github.io/"/>
-  <updated>2023-07-25T15:39:57.074Z</updated>
+  <updated>2023-08-18T05:49:20.377Z</updated>
   <id>http://le53.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://le53.github.io/2023/07/25/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/"/>
     <id>http://le53.github.io/2023/07/25/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/</id>
     <published>2023-07-24T16:00:00.000Z</published>
-    <updated>2023-07-25T15:39:57.074Z</updated>
+    <updated>2023-08-18T05:49:20.377Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/../images/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/%E9%9A%90%E7%A7%81-1690298971564-6.jpg" alt="隐私"></p><p><em>【软件：HTML、css、javascript、SPSS、JASP】</em></p><blockquote><p>本研究对个人智能设备数据分享中出现的“意图行为不一致”现象的原因进行探讨。以解释水平理论和隐私计算理论为依据，通过决策方式（意图行为）和决策对象（自我他人控制）双因素混合实验得出，决策对象调节决策方式对利益优势（列举利益与风险的数量之差）有影响：当被试为本人做决策时，实际数据共享会多于共享意图。当被试为他人做决策时，实际数据共享会少于共享意图。利益优势继而影响了隐私决策，即利益与风险的差值越大其共享的概率越高。此外，中介分析的结果表明利益优势中介了决策方式对数据共享决策的影响，且决策对象对利益优势的中介效应有调节作用。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>实验流程设计和实验网站<strong>前端代码</strong>编写及搭建</li><li>实验<strong>数据收集及分析</strong>，得出实验结论</li><li>文献综述及<strong>论文撰写</strong></li></ul><h3 id="实验网址"><a href="#实验网址" class="headerlink" title="实验网址"></a>实验网址</h3><p><a href="http://le535353.pythonanywhere.com/tmc">le535353.pythonanywhere.com</a></p><h3 id="论文"><a href="#论文" class="headerlink" title="论文"></a>论文</h3>]]></content>
+    <content type="html"><![CDATA[<p><img src="/../images/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/%E9%9A%90%E7%A7%81-1690298971564-6.jpg" alt="隐私"></p><p><em>【软件：HTML、css、javascript、SPSS、JASP】</em></p><blockquote><p>本研究对个人智能设备数据分享中出现的“意图行为不一致”现象的原因进行探讨。以解释水平理论和隐私计算理论为依据，对决策过程进行追踪，通过决策类型（意图行为）和决策对象（自我他人控制）双因素实验验证了利益优势（列举利益与风险的数量之差）中介了决策类型对数据共享决策的影响。同时，对设备及决策对象对中介效应的调节进行了探讨。该研究探讨了意图行为不一致的影响机制，为解释意图行为不一致提供了新的发现。<span id="more"></span></p></blockquote><h3 id="我的工作"><a href="#我的工作" class="headerlink" title="我的工作"></a>我的工作</h3><ul><li>实验流程设计和实验网站<strong>前端代码</strong>编写及搭建</li><li>实验<strong>数据收集及分析</strong>，得出实验结论</li><li>文献综述及<strong>论文撰写</strong></li></ul><h3 id="实验网址"><a href="#实验网址" class="headerlink" title="实验网址"></a>实验网址</h3><p><a href="http://le535353.pythonanywhere.com/tmc">le535353.pythonanywhere.com</a></p><h3 id="论文"><a href="#论文" class="headerlink" title="论文"></a>论文</h3>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/%E8%87%AA%E6%88%91%E4%BB%96%E4%BA%BA%E5%86%B3%E7%AD%96%E5%9C%A8%E9%9A%90%E7%A7%81%E5%86%B3%E7%AD%96%E6%84%8F%E5%9B%BE%E8%A1%8C%E4%B8%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E4%B8%AD%E7%9A%84%E8%B0%83%E8%8A%82%E4%B8%8E%E4%B8%AD%E4%BB%8B%E4%BD%9C%E7%94%A8%E8%AE%BA%E6%96%87/%E9%9A%90%E7%A7%81-1690298971564-6.jpg&quot; alt=&quot;隐私&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;【软件：HTML、css、javascript、SPSS、JASP】&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;本研究对个人智能设备数据分享中出现的“意图行为不一致”现象的原因进行探讨。以解释水平理论和隐私计算理论为依据，通过决策方式（意图行为）和决策对象（自我他人控制）双因素混合实验得出，决策对象调节决策方式对利益优势（列举利益与风险的数量之差）有影响：当被试为本人做决策时，实际数据共享会多于共享意图。当被试为他人做决策时，实际数据共享会少于共享意图。利益优势继而影响了隐私决策，即利益与风险的差值越大其共享的概率越高。此外，中介分析的结果表明利益优势中介了决策方式对数据共享决策的影响，且决策对象对利益优势的中介效应有调节作用。</summary>
+&lt;p&gt;本研究对个人智能设备数据分享中出现的“意图行为不一致”现象的原因进行探讨。以解释水平理论和隐私计算理论为依据，对决策过程进行追踪，通过决策类型（意图行为）和决策对象（自我他人控制）双因素实验验证了利益优势（列举利益与风险的数量之差）中介了决策类型对数据共享决策的影响。同时，对设备及决策对象对中介效应的调节进行了探讨。该研究探讨了意图行为不一致的影响机制，为解释意图行为不一致提供了新的发现。</summary>
     
     
     
